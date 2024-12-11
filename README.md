@@ -23,7 +23,7 @@ This repository contains the submission for the CBU0521 miniproject. The project
 ## Instructions to Run the Project
 
 1. Clone this repository:
- ```bash
+
    git clone https://github.com/hhhaojianqiang/CBU0521_miniproject.git
    cd CBU0521_miniproject
 
